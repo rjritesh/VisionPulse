@@ -141,7 +141,7 @@ export default function LandingPage() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="bg-gray-800 p-8 rounded-3xl shadow-xl hover:scale-105 transform transition">
             <h3 className="text-2xl font-semibold mb-2">Step 1</h3>
-            <p>Upload an image or use your webcam to start detection.</p>
+             <p>Open the app and allow webcam access for live surveillance.</p>
           </div>
           <div className="bg-gray-800 p-8 rounded-3xl shadow-xl hover:scale-105 transform transition">
             <h3 className="text-2xl font-semibold mb-2">Step 2</h3>
