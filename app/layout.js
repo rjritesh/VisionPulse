@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Vision Pulse - Theft Detection Alarm",
+  title: "VisionPulse - AI surveillance",
   description: "Your quiet AI security app that watches through your webcam and sends alerts the moment someone is detected. No fuss, just safety.",
 };
 
