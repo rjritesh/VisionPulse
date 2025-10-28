@@ -44,7 +44,7 @@ export default function LandingPage() {
         {/* Hero Content */}
         <div className="text-center z-10 space-y-6">
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-             AI Powered CCTV surveillance
+             AI Powered CCTV Surveillance
           </h1>
           <p className="text-lg md:text-xl text-gray-300 max-w-xl mx-auto">
             Detect objects in real-time, capture screenshots, and receive
